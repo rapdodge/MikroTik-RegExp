@@ -1,1 +1,1 @@
-^.+(netflix.com|nflxext.com|nflximg.net|nflxvideo.net).*\$
+^.+(visionplus|mncnow|ext-twitch|jtvnw|live-video|ttvnw|twitch|twitchcdn|twitchsvc|netflix.com|netflix.net|nflxext.com|nflximg.com|nflximg.net|nflxso.net|nflxvideo.net).*$
