@@ -1,1 +1,1 @@
-^.+(googlevideo.com|gvt1.com|video.google.com|youtu.be|youtube-nocookie.com|youtube-ui.l.google.com|youtube.com|youtube.googleapis.com|youtubeeducation.com|youtubei.googleapis.com|yt3.ggpht.com|ytimg.com).*$
+^.+(googlevideo|gvt1.com|video.google.com|youtu.be|youtube-nocookie.com|youtube-ui.l.google.com|youtube.com|youtube.googleapis.com|youtubeeducation.com|youtubei.googleapis.com|yt3.ggpht.com|ytimg.com).*$
